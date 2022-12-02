@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fvazqu
-- 👀 I’m interested in gaining experience for software engineering
+- 👀 I’m interested in gaining experience to learn more about programming
 - 🌱 I’m currently learning python, rust, and front-end development
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me: f.vazquez0617@gmail.com
