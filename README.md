@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fvazqu
-- 👀 I’m interested in gaining experience to learn more about programming
-- 🌱 I’m currently learning python, rust, and front-end development
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in gaining experience to learn more about data analytics and programming
+- 🌱 I’m currently learning SQL, Python, and Data Analytics
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me: f.vazquez0617@gmail.com
 - 🖇 Check out my LinkedIn: https://www.linkedin.com/in/fabian-v-a85a48193/
 
