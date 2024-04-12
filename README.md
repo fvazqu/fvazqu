@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 🌱 I’m currently learning Deep Learning and web development
-- 🔭 I'm currently working on www.polypdetector.com
+- 🔭 I'm currently working on polypdetector.com
 
 <!---
 fvazqu/fvazqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
