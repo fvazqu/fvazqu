@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 🌱 I’m currently learning Deep Learning and web development
+- 🌱 I’m currently learning Deep Learning and software engineering
 - 🔭 I'm currently working on polypdetector.com
 
 <!---
